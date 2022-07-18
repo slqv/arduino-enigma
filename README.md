@@ -1,5 +1,6 @@
 # slqv-arduino-enigma
-My first ever real Arduino program is a fully functional enigma machine.
+Fully functional 3-button Arduino enigma machine  
+This was my first Arduino project and first real program on any platform, go easy on me.  
 
 Designed for use on "borrowed" school materials:  
 Yourduino red board, 20x4 yourduino i2c LCD display  
