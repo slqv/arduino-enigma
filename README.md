@@ -1,4 +1,4 @@
-# slqv-arduino-enigma
+# arduino-enigma
 Fully functional 3-button Arduino enigma machine  
 This was my first Arduino project and first real program on any platform, go easy on me.  
 
